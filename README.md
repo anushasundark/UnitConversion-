@@ -1,5 +1,4 @@
 # UnitConversion-
-# Unit Converter
 This is a simple unit converter GUI application built using Tkinter in Python. It allows conversion between lengths and areas with various units.
 
 ## Features
@@ -14,10 +13,8 @@ Conversion between length units, mass units, temperature units, time units, spee
 The result will be displayed below.
 
 ## Images
-![Primary window](https://github.com/Zumarepasha/UnitConverter/blob/master/Img1.PNG)
-
-![Choosing Unit type window](https://github.com/Zumarepasha/UnitConverter/blob/master/Img2.PNG)
-
+![Primary window](Image1.png).
+![Choosing Unit type window](
 ![Choosing conversion type window](https://github.com/Zumarepasha/UnitConverter/blob/master/Img3.PNG)
 
 ![Converting length value](https://github.com/Zumarepasha/UnitConverter/blob/master/Img4.PNG)
