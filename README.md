@@ -15,11 +15,9 @@ The result will be displayed below.
 ## Images
 ![Primary window](https://github.com/anushasundark/UnitConversion-/blob/main/Image1.png).
 ![Choosing Unit type window](https://github.com/anushasundark/UnitConversion-/blob/main/Image2.png).
-![Choosing conversion type window](https://github.com/Zumarepasha/UnitConverter/blob/master/Img3.PNG)
+![Choosing conversion type window](https://github.com/anushasundark/UnitConversion-/blob/main/Image3.png)
 
-![Converting length value](https://github.com/Zumarepasha/UnitConverter/blob/master/Img4.PNG)
-
-![Converting temp window](https://github.com/Zumarepasha/UnitConverter/blob/master/Img5.PNG)
+![Converting length value]()
 
 ## Dependencies
 1. Python 3.0
