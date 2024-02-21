@@ -2,7 +2,12 @@
 This is a simple unit converter GUI application built using Tkinter in Python. It allows conversion between lengths and areas with various units.
 
 ## Features
-Conversion between length units, mass units, temperature units, time units, speed units, pressure units etc.
+This is a simple length converter GUI application built using Tkinter in Python.
+
+1.Centimeter to Feet.
+2.Feet to Inches.
+3.Sqft to Sqmtrs.
+4.Sqft to Acres/Hectres.
 
 ## How to Use
 1. Run the script.
@@ -17,9 +22,9 @@ The result will be displayed below.
 ![Choosing Unit type window](https://github.com/anushasundark/UnitConversion-/blob/main/Image2.png).
 ![Choosing conversion type window](https://github.com/anushasundark/UnitConversion-/blob/main/Image3.png)
 
-![Converting length value]()
+![Converting length value](https://github.com/anushasundark/UnitConversion-/blob/main/Image4.png)
 
-## Dependencies
+## Requirements
 1. Python 3.0
 2. Tkinter
 
@@ -27,8 +32,3 @@ The result will be displayed below.
 1. Clone the repository or download the script.
 2. Ensure you have Python and Tkinter installed.
 3. Run the script using python filename.py command.
-
-## Credits
-This script is created by Zumare Pasha.
-
-Feel free to contribute to this project or suggest improvements. If you encounter any issues, please report them in the issues section.
