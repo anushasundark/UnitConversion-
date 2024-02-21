@@ -4,10 +4,10 @@ This is a simple unit converter GUI application built using Tkinter in Python. I
 ## Features
 This is a simple length converter GUI application built using Tkinter in Python.
 
-1.Centimeter to Feet.
-2.Feet to Inches.
-3.Sqft to Sqmtrs.
-4.Sqft to Acres/Hectres.
+1. Centimeter to Feet.
+2. Feet to Inches.
+3. Sqft to Sqmtrs.
+4. Sqft to Acres/Hectres.
 
 ## How to Use
 1. Run the script.
